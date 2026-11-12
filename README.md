@@ -2,7 +2,7 @@
 
 SEO Pro is an all-in-one SEO SaaS platform sold by Coderobotics with complete, unencrypted source code. It is built with PHP 8.3, Laravel 13, Livewire 4 and Tailwind CSS 4 on MySQL, and installs as a PWA. It includes keyword research, competitor and traffic research, site audits with a built-in crawler, rank tracking, backlink analysis, local SEO map grid scans, an AI article writer, AI chat and white-label PDF reports. Its AI Search Visibility module asks Claude, ChatGPT, Gemini and Perplexity the same prompts and compares how brands are mentioned, cited and described. Search data comes from the DataForSEO API using the owner's own account. Customers buy plans and spend credits on lookups, with payments through Stripe, Razorpay, PayPal or bank transfer, and the admin sets the credit cost of every action. It suits entrepreneurs launching an SEO SaaS, marketing agencies that need a white-label tool, and developers who want a Laravel SaaS codebase to customise. It is sold for a one-time payment with one year of free updates and email support.
 
-<img src="https://www.coderobotics.com/product/all-in-one-seo-platform-saas">
+<img src="https://www.coderobotics.com/frontend/assets/icon/SEO-Pro-All-in-One-Platform.jpg">
 
 SEO Pro is an all-in-one SEO SaaS platform built with Laravel 13, Livewire 4 and Tailwind CSS 4. It covers keyword research, competitor research, site audits, rank tracking, backlinks, local SEO, AI content writing and AI search visibility in one app. Teams buy plans and spend credits on paid lookups, so you can launch your own SEO tool business with the complete source code.
 
